@@ -15,7 +15,6 @@
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
-    "@eslint/js": "^9.21.0",
     "@tailwindcss/vite": "^4.0.12",
     "@types/react": "^19.0.10",
     "@types/react-dom": "^19.0.4",
@@ -23,13 +22,11 @@
     "@will-stone/eslint-config": "^13.0.0",
     "@will-stone/prettier-config": "^9.0.1",
     "eslint": "^9.22.0",
-    "globals": "^15.15.0",
     "husky": "^9.1.7",
     "lint-staged": "^15.4.3",
     "prettier": "^3.5.3",
     "tailwindcss": "^4.0.12",
-    "typescript": "~5.7.2",
-    "typescript-eslint": "^8.24.1",
+    "typescript": "^5.8.0",
     "vite": "^6.2.0"
   },
   "pnpm": {
